@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1014624936083",
+    "firebase_url": "https://user-management-c368c.firebaseio.com",
+    "project_id": "user-management-c368c",
+    "storage_bucket": "user-management-c368c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014624936083:android:53c2097f35805684a7ed66",
+        "android_client_info": {
+          "package_name": "com.ethioptech.usermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014624936083-1ddb64d9ob8b5dsnouussffk9snf6bpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ethioptech.usermanagement",
+            "certificate_hash": "432c3eaa564e9c3e2709634359e6d27321a4ffc5"
+          }
+        },
+        {
+          "client_id": "1014624936083-hslka0l9idvq9oibsqqmlv4rnmo59gat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcbbrW1enw_C7YkkjlnvKt922leyW0fNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014624936083-hslka0l9idvq9oibsqqmlv4rnmo59gat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
